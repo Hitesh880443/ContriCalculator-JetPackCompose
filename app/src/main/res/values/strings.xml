@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ContriCalculatorJetPackCompose</string>
+    <string name="total_per_person_heading">Total Per Person</string>
+    <string name="money_icon">Money Icon</string>
+    <string name="enter_bill">Enter Bill</string>
 </resources>
